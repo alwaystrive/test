@@ -1,4 +1,4 @@
 # test
 
 some some
-next..
+next.
